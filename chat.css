@@ -1,0 +1,225 @@
+.header{
+    width: 1400px;
+    height: 70px;
+    background-color: black;
+    margin-left: -10px;
+    margin-top: -10px;
+    position: fixed;
+}
+
+.web_title{
+    color: white;
+    margin-left: 70px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header_links{
+    margin-left: 400px;
+    margin-top: -60px;
+}
+
+.header_links a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.header_links button{
+    height: 40px;
+    background-color: transparent;
+    margin-top: -8px;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+}
+
+.header_links button:hover{
+    border-bottom: 4px solid red;
+}
+
+.header_links input{
+    margin-left: 100px;
+    width: 300px;
+    height: 40px;
+    border: 2px solid white;
+    background-color: transparent;
+}
+
+.srch{
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    margin-top: -5px;
+}
+
+.srch:hover{
+    background-color: white;
+    color: black;
+}
+
+.navigation{
+    width: 300px;
+    height: 603px;
+    background-color: blueviolet;
+    margin-top: -12px;
+    margin-left: -8px;
+    position: fixed;
+    display: none;
+}
+
+.users{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(130, 165, 42);
+    color: white;
+    font-size: 25px;
+    margin-top: -35px;
+}
+
+.users_account{
+    width: 300px;
+    height: 50px;
+    border: 5px;
+    border: none;
+    background-color: transparent;
+    color: white;
+    font-size: 21px
+}
+
+.users_account:hover{
+    background-color: rgb(172, 95, 39);
+}
+
+.body{
+    background-color: white;
+    width: 1048px;
+    height: 1500px;
+    margin-left: 292px;
+    margin-top: -11px;
+    display: none;
+}
+
+.gisha{
+    background-color: white;
+    width: 1048px;
+    height: 1500px;
+    margin-left: 292px;
+    margin-top: -11px;
+    display: none;
+}
+
+.icee{
+    background-color: white;
+    width: 1048px;
+    height: 1500px;
+    margin-left: 292px;
+    margin-top: -11px;
+    display: none;
+}
+
+.lostooh{
+    background-color: white;
+    width: 1048px;
+    height: 1500px;
+    margin-left: 292px;
+    margin-top: -11px;
+    display: none;
+}
+
+.phillipe{
+    background-color: white;
+    width: 1048px;
+    height: 1500px;
+    margin-left: 292px;
+    margin-top: -11px;
+    display: none;
+}
+
+.gafezi{
+    background-color: white;
+    width: 1048px;
+    height: 1500px;
+    margin-left: 292px;
+    margin-top: -11px;
+    display: none;
+}
+
+.home{
+    background-color: white;
+    width: 1048px;
+    height: 1500px;
+    margin-left: 292px;
+    margin-top: -11px;
+}
+
+
+.gafez{
+    color: olive;
+}
+
+.philip{
+    color: springgreen;
+}
+
+.lost{
+    color: tomato;
+}
+
+
+.fk_params{
+    font-size: 20px
+}
+
+.fk{
+    color: crimson;
+}
+
+.fk_img{
+    width: 300px;
+    height: 300px;
+    border-radius: 360px;
+}
+
+#chat_link{
+    color: white;
+    text-decoration: none;
+}
+
+.gsh{
+    color: rgb(58, 204, 50);
+}
+
+.nova{
+    color: hotpink;
+}
+
+.home_p{
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.kkk{
+    width: 400px;
+    height: 500px;
+    margin-left: 150px;
+}
+
+.ppp{
+    width: 400px;
+    height: 500px;
+}
+
+.lll{
+    width: 400px;
+    height: 500px;
+}
+
+.fppp{
+    margin-left: 400px;
+    margin-top: -200px;
+}
+
+.flll{
+    margin-left: 150px;
+    margin-top: -200px;
+}
